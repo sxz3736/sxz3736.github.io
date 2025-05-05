@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sxz3736.cn/sitemap.xml
